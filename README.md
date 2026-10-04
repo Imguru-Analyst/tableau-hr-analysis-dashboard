@@ -49,8 +49,8 @@ The dashboard helps understand **workforce distribution and employee attrition p
 
 ## 🖼️ Dashboard Preview
 
-![HR Analysis Dashboard](<img width="1628" height="848" alt="HR Dashboard" src="https://github.com/user-attachments/assets/c2307203-4c59-4e2f-9e16-35a9eb6a2391" />
-)
+![HR Analysis Dashboard](https://github.com/Imguru-Analyst/tableau-hr-analysis-dashboard/blob/main/HR%20Dashboard.png?raw=true)
+
 
 ## 👨‍💻 Author
 
